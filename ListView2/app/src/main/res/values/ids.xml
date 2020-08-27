@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lvContact" type="id" />
+    <item name="btEdit" type="id" />
+    <item name="btCall" type="id" />
+</resources>
